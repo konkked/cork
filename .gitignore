@@ -1,0 +1,4 @@
+/target
+test/cork_test/lib/python3.12/
+test/cork_test/bin/
+test/cork_test/pyvenv.cfg
